@@ -19,7 +19,7 @@ module "training_stack_1" {
     min_vcpus     = 0
     type          = "SPOT"
 
-    image_id = "ami-82defcfb"
+    image_id = "ami-xxx"
   }
 
   environment_definition = <<EOF
